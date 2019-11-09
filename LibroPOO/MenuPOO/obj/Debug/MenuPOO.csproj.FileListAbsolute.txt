@@ -1,0 +1,6 @@
+C:\CsharpProjects\MenuPOO\MenuPOO\bin\Debug\MenuPOO.exe.config
+C:\CsharpProjects\MenuPOO\MenuPOO\bin\Debug\MenuPOO.exe
+C:\CsharpProjects\MenuPOO\MenuPOO\bin\Debug\MenuPOO.pdb
+C:\CsharpProjects\MenuPOO\MenuPOO\obj\Debug\MenuPOO.csprojAssemblyReference.cache
+C:\CsharpProjects\MenuPOO\MenuPOO\obj\Debug\MenuPOO.exe
+C:\CsharpProjects\MenuPOO\MenuPOO\obj\Debug\MenuPOO.pdb

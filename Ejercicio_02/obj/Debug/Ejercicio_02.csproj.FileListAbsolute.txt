@@ -1,0 +1,9 @@
+C:\WindowsForm\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\WindowsForm\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\WindowsForm\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.Form1.resources
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.Properties.Resources.resources
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.GenerateResource.cache
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\WindowsForm\Ejercicio_02\obj\Debug\Ejercicio_02.pdb

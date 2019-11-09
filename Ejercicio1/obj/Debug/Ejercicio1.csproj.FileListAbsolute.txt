@@ -1,0 +1,6 @@
+C:\PACK_EXAMEN_Csharp\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\PACK_EXAMEN_Csharp\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\PACK_EXAMEN_Csharp\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\PACK_EXAMEN_Csharp\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\PACK_EXAMEN_Csharp\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\PACK_EXAMEN_Csharp\Ejercicio1\obj\Debug\Ejercicio1.pdb

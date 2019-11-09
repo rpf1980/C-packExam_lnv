@@ -1,0 +1,12 @@
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\bin\Debug\MenuArrays.exe.config
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\bin\Debug\MenuArrays.exe
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\bin\Debug\MenuArrays.pdb
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\obj\Debug\MenuArrays.csprojAssemblyReference.cache
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\obj\Debug\MenuArrays.exe
+C:\Users\RPF\source\repos\MenuArrays\MenuArrays\obj\Debug\MenuArrays.pdb
+C:\CsharpProjects\MenuArrays\MenuArrays\bin\Debug\MenuArrays.exe.config
+C:\CsharpProjects\MenuArrays\MenuArrays\bin\Debug\MenuArrays.exe
+C:\CsharpProjects\MenuArrays\MenuArrays\bin\Debug\MenuArrays.pdb
+C:\CsharpProjects\MenuArrays\MenuArrays\obj\Debug\MenuArrays.csprojAssemblyReference.cache
+C:\CsharpProjects\MenuArrays\MenuArrays\obj\Debug\MenuArrays.exe
+C:\CsharpProjects\MenuArrays\MenuArrays\obj\Debug\MenuArrays.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuArrays", "MenuArrays\MenuArrays.csproj", "{69375720-8E6F-4181-8782-8713472E796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69375720-8E6F-4181-8782-8713472E796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69375720-8E6F-4181-8782-8713472E796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69375720-8E6F-4181-8782-8713472E796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69375720-8E6F-4181-8782-8713472E796D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3709C59-2875-45E3-86E7-5048D1428275}
+	EndGlobalSection
+EndGlobal
